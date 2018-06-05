@@ -271,3 +271,4 @@ wrapper.sh
 wrapper.bat
 *_wrapper.sh
 *_wrapper.bat
+/CMakeLists.txt.user
